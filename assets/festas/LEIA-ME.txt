@@ -1,0 +1,20 @@
+FOTOS OTIMIZADAS — prontas pra usar na página
+==============================================
+
+dj-1.*  ..  mãos do DJ na mesa. 3 versões: .avif (mais leve) / .webp / .jpg
+            — o navegador escolhe. 1000x1333 (retrato 3:4).
+            HOJE não está na página (a galeria "Festas reais" usa o VÍDEO do DJ,
+            que é mais forte). Fica aqui pronta caso queira trocar.
+
+A galeria "Festas reais" hoje mostra:
+    vídeo cerimônia (beijo) · vídeo painel de LED · vídeo DJ ao vivo ·
+    vídeo estrutura montada · foto cerimônia à noite · foto saída com bolhas
+Os vídeos ficam em ../reels/ . As fotos de casamento em ../casamentos/ .
+
+Havia 2 fotos quase idênticas do DJ no material bruto; guardei a melhor aqui.
+As duas originais estão em _fontes-originais/videos-imagens-brutos/.
+
+TROCAR / ADICIONAR
+-----------------
+Coloque a foto aqui (retrato, resolução alta) e me manda — eu gero
+avif+webp+jpg no tamanho certo e encaixo na página.

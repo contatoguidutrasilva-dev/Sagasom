@@ -1,0 +1,35 @@
+MÚSICA DE FUNDO
+===============
+
+STATUS: instalada. ✔
+
+Origem: "MUSICA SITE-2.webm" (Opus, ~5:54). Original guardado em
+../../_fontes-originais/MUSICA-SITE-2.webm (fora da pasta publicável).
+
+Arquivos servidos:
+    music.webm   ~3,1 MB  — Opus 72k (Chrome/Firefox/Android)
+    music.mp3    ~4,3 MB  — MP3 96k (Safari/iOS + fallback)
+
+COMO FUNCIONA NO SITE
+--------------------
+- Toca em loop, volume baixo (0.2) controlado via Web Audio (funciona no iPhone,
+  onde não dá pra mexer no volume do <audio> direto).
+- Navegador NÃO deixa áudio tocar sozinho no load. Então a música começa
+  no primeiro toque/scroll/clique do visitante, com fade-in suave.
+- Botão "Música" no topo (ao lado do logo) liga/desliga. As barrinhas
+  animam quando está tocando.
+- A escolha fica salva (localStorage): se o visitante pausar, não volta a
+  tocar sozinho nas próximas visitas.
+- Pausa quando troca de aba e volta ao retornar.
+
+TROCAR A MÚSICA
+--------------
+Substitua music.webm e music.mp3 mantendo os nomes. Para gerar de um mp3 novo:
+    ffmpeg -i nova.mp3 -c:a libopus -b:a 72k music.webm
+    ffmpeg -i nova.mp3 -c:a libmp3lame -b:a 96k music.mp3
+
+DIREITOS
+--------
+Confirme que a música tem licença para uso no site (direitos autorais /
+sincronização). Faixa sem licença pode gerar problema, principalmente
+em vídeo/anúncio depois.

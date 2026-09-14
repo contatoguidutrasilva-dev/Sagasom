@@ -1,0 +1,30 @@
+CARROSSEL DE FOTOS — seção "Casamentos"
+=======================================
+
+STATUS: 4 fotos instaladas. Falta a 5ª.
+
+O carrossel troca de foto sozinho a cada 10s (cross-fade + zoom lento),
+com bolinhas embaixo pra navegar, pausa quando o mouse passa por cima.
+
+Cada foto tem 3 versões (o navegador escolhe a melhor que aceita):
+    1.avif / 1.webp / 1.jpg   ... até 4
+Fonte original (PNG grande): ../../_fontes-originais/casamentos/
+
+Tamanho: 1200x1600 (3:4, retrato). AVIF ~55-150 KB cada.
+
+
+ORDEM ATUAL
+-----------
+1 = noivos na cerimônia (flores)
+2 = casal de mãos dadas, cerimônia à noite
+3 = casal posando na recepção
+4 = saída dos noivos entre bolhas
+
+
+ADICIONAR A 5ª FOTO
+-------------------
+1. Coloque o arquivo original aqui (JPG ou PNG, retrato, resolução alta).
+2. Me manda que eu gero 5.avif / 5.webp / 5.jpg e adiciono no carrossel
+   (mais 1 <figure class="slide"> e mais 1 bolinha no index.html).
+
+Quer trocar a ordem, tirar ou trocar alguma foto? Só falar.

@@ -1,0 +1,21 @@
+LOGO OFICIAL — SAGASOM
+======================
+
+logo.png ....... versão web (880x335, PNG com transparência, ~8 KB).
+                 Também está EMBUTIDA no index.html (data URI, variável CSS --logo).
+                 Aparece no topo (header) e no rodapé.
+icon-180.png ... ícone do app / apple-touch-icon (a marca "som": quadrado
+                 arredondado ciano com ponto no centro). Embutido no HTML.
+favicon ........ SVG inline no <head> do index.html, mesma marca em ciano #45EBE9.
+
+Original de alta resolução (3808x1448):
+    ../../_fontes-originais/SAGASOM-LOGO-oficial-ORIGINAL.png
+
+Cor de destaque da marca: #45EBE9 (ciano) — no site fica em --brand-cyan.
+O restante do site segue o azul elétrico (#0648E8 / #078BFF).
+
+TROCAR A LOGO
+-------------
+1. Substitua assets/logo.png (mantenha fundo transparente, proporção parecida).
+2. Me avisa que eu re-embuto no HTML (a cópia dentro do index.html é a que
+   vale quando o site abre sem servidor).

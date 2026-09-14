@@ -1,0 +1,40 @@
+REELS — vídeos verticais que tocam sozinhos ao entrar na tela
+============================================================
+
+Todos sem som, em loop, começam a tocar quando aparecem na tela e
+pausam quando saem (economiza dados e bateria). Só MP4 (H.264) —
+toca em todo navegador atual, inclusive iPhone.
+Cada vídeo tem um -poster.jpg (imagem que aparece antes de carregar).
+
+ONDE CADA UM APARECE
+--------------------
+Seção "Pista cheia" (3 vídeos lado a lado):
+    experiencia.mp4 .. painel de LED com o nome SAGA SOM + luzes
+    balada.mp4 ....... convidados dançando na pista
+    casal.mp4 ........ primeira dança dos noivos
+
+Galeria "Festas reais" (6 vídeos):
+    casamento.mp4 .... beijo dos noivos na cerimônia
+    pistacheia.mp4 ... pista lotada, gente dançando
+    dj.mp4 ........... DJ mixando ao vivo
+    monograma.mp4 .... monograma "15" projetado na pista + painel
+    bazuca.mp4 ....... bazuca de CO2 disparando fumaça gelada na pista
+    quinze.mp4 ....... banda ao vivo (sax + percussão)
+
+Originais (WhatsApp, sem cortar):
+    ../../../_fontes-originais/videos-imagens-brutos/  (1ª leva)
+    ../../../_fontes-originais/videos-imagens-brutos-2/ (2ª leva)
+    ../../../_fontes-originais/videos-imagens-brutos-3/ (bazuca de CO2)
+
+Vídeos já otimizados que NÃO estão na página (prontos pra usar):
+    ../../../_fontes-originais/reels-prontos-nao-usados/
+    → pista (salão vazio montado), painel (telão de LED), ledwall (estrutura)
+    → debutante (a galera de 15 anos dançando — 360p, saiu pra entrar a bazuca)
+    Também sobraram no material bruto: A.mp4 (roda de convidados),
+    12.mp4 (telão + debutante) — me pede que eu otimizo e coloco.
+
+TROCAR UM VÍDEO
+---------------
+Coloque o novo arquivo aqui com o MESMO nome (ex.: balada.mp4) e me
+manda — eu re-otimizo (corto, comprimo, gero o -poster.jpg).
+Ideal: vertical, 8-15s, uma cena boa e contínua.

@@ -1,0 +1,29 @@
+CARROSSEL DE FOTOS — seção "15 anos"
+====================================
+
+STATUS: 5 fotos instaladas.
+
+O carrossel troca sozinho a cada 10s (cross-fade + zoom lento), com
+bolinhas embaixo pra navegar, pausa quando o mouse passa por cima.
+Mesmo comportamento do carrossel de Casamentos.
+
+Cada foto tem 3 versões (o navegador pega a mais leve que aceita):
+    1.avif / 1.webp / 1.jpg  ... até 5
+Tamanho: 1200x1600 (retrato 3:4). AVIF ~165-260 KB cada.
+
+Originais 4K (3712x4608 PNG): ../../../_fontes-originais/quinze-4k-originais/
+
+ORDEM ATUAL
+-----------
+1 = debutante no salão decorado (flores + luzes)
+2 = debutante deitada sobre tapete de luzes, vestido espalhado
+3 = a debutante com as amigas em frente ao painel "15"
+4 = debutante ao lado da mesa do bolo
+5 = debutante com amiga em cenário de jardim
+
+O vídeo da banda ao vivo (que ficava aqui) foi pra galeria "Festas reais".
+
+TROCAR / REORDENAR / ADICIONAR
+-----------------------------
+Coloque o arquivo original aqui (JPG ou PNG, retrato, resolução alta)
+e me manda — eu gero avif/webp/jpg e ajusto o index.html.

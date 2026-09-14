@@ -1,0 +1,32 @@
+FONTE AEONIK — texto corrido do site
+=====================================
+
+STATUS: instalada e funcionando. ✔
+
+O site usa a Aeonik SOMENTE em texto corrido (parágrafos, listas, legendas).
+Títulos, botões, números, menu e labels usam a Sora.
+
+Arquivos servidos (convertidos do .otf original para .woff2 — ~43 KB cada):
+
+    Aeonik-Regular.woff2        peso 400
+    Aeonik-Medium.woff2         peso 500
+    Aeonik-Bold.woff2           peso 700
+    Aeonik-RegularItalic.woff2  itálico 400
+    Aeonik-MediumItalic.woff2   itálico 500
+
+O .zip com a família completa (Thin/Light/Black etc.) foi movido pra fora
+da pasta do site: ../aeonik-ORIGINAL-nao-publicar.zip
+Não coloque .otf/.zip dentro de site/ — o .gitignore já bloqueia.
+
+
+LICENÇA
+-------
+A Aeonik é comercial (CoType Foundry). Confirme que a sua licença cobre
+webfont (@font-face) antes de publicar. Se não cobrir, dá pra trocar por
+uma alternativa gratuita parecida (Hanken Grotesk, Geist) sem mexer no layout.
+
+
+REGERAR OS .woff2 (se um dia precisar)
+-------------------------------------
+    pip3 install --user fonttools brotli
+    python3 -c "from fontTools.ttLib import TTFont; f=TTFont('Aeonik-Regular.otf'); f.flavor='woff2'; f.save('Aeonik-Regular.woff2')"
